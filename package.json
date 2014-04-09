@@ -1,0 +1,30 @@
+{
+  "name": "coffee-splatters",
+  "version": "0.0.1",
+  "description": "Coffee-script node utils.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha lib/*.spec.coffee --compilers coffee:coffee-script/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/realyze/coffee-splatters.git"
+  },
+  "keywords": [
+    "coffee-script",
+    "utils"
+  ],
+  "author": "tomas@salsitasoft.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realyze/coffee-splatters/issues"
+  },
+  "homepage": "https://github.com/realyze/coffee-splatters",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.18.2"
+  },
+  "dependencies": {
+    "underscore": "^1.6.0"
+  }
+}
