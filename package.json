@@ -12,7 +12,8 @@
   },
   "keywords": [
     "coffee-script",
-    "utils"
+    "utils",
+    "object"
   ],
   "author": "tomas@salsitasoft.com",
   "license": "MIT",
