@@ -1,0 +1,4 @@
+coffee-splatters
+================
+
+Coffeescript utils.
