@@ -21,10 +21,11 @@
   },
   "homepage": "https://github.com/realyze/coffee-splatters",
   "devDependencies": {
-    "chai": "^1.9.1",
-    "mocha": "^1.18.2"
+    "chai": "1.9.1",
+    "mocha": "1.18.2"
   },
   "dependencies": {
-    "underscore": "^1.6.0"
+    "coffee-script": "1.7.1",
+    "underscore": "1.6.0"
   }
 }

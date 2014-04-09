@@ -2,7 +2,7 @@ describe "interpolate", ->
 
   interpolate = require './interpolate'
 
-  it.only "should interpolate the object properties", ->
+  it "should interpolate the object properties", ->
     obj =
       foo:
         bar: "{{foo.target}}"
