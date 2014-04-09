@@ -1,6 +1,6 @@
 {
   "name": "coffee-splatters",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Coffee-script node utils.",
   "main": "index.js",
   "scripts": {
